@@ -1,1 +1,1 @@
-https://KatrinaSh.github.io/rsschool-cv/cv
+https://KartinaShr.github.io/rsschool-cv/cv
