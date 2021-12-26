@@ -6,7 +6,7 @@ Female, 26 years, born on 13 March 1995
 
 Contact
 --- 
-Telephone: +373 (33) 389 69 35 — preferred means of communication   
+Telephone (MTS): +373 (33) 389 69 35 — preferred means of communication   
 Email:                        email@example.com  
 Skype: live:bdd6d15c6251510a    
 GitHab: KatrinaShr   
