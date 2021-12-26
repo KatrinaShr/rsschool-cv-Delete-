@@ -12,10 +12,6 @@ Skype: live:bdd6d15c6251510a
 GitHab: KatrinaShr   
 Toward: Minsk 
 
-Purpose
----
-Priorities
----
 Work experience  
 ---
 May 2021 — currently  | **Andersen (Minsk, andersenlab.com)**
@@ -85,85 +81,51 @@ CJSC "HOLOGRAPHIC INDUSTRY"
 
 OJSC "DST-5"*</code>
 
-Education
+About me
 ---
+Active and responsible, with critical thinking.
+Strengths - good analytical skills, tact and communication skills, willingness to learn and the ability to work with a lot of information, I like to learn something new.
+Excellent communication skills and the ability to work in a team, the ability to find positive in everything.
+My professional interests: to develop and build on the existing experience in business analysis.
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+My hobbies:
+1. Personal efficiency, time management, reading prof. literature.
+2. Psychology, foreign languages.
+3. Attendance at lectures and seminars.
+4. Web programming.
+5. Swimming pool, gym.
+6. Creativity, playing the guitar.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+My expectations and wishes for a new place of work:
+Working in a team of professionals, a company that promotes the development of my professional interests.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Higher education
+---
+2018: Baranovichi State University, Baranovichi
+Faculty of Engineering, Software Engineer
 
-    *Minor: Awesomeology*
+2014: Stolin State Agrarian and Economic College, Stolin
+Information technology software, computer operator, technician programmer
 
-Experience
-----------
+Languages
+---
+Edit
+Russian — Native
 
-**Your Most Recent Work Experience:**
+English — A2
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Professional development, courses
+---
+2021: IT-Academy
+IT-Academy, UML NOTATION IN PRACTICAL ANALYSIS & VISUAL MODELING
 
-* First item
+2018: QA academy
+A1QA
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Tests, examinations
+---
+2020: LLC "1C"
+LLC "1C", 1C: TEACHER CSO Salary and personnel management
 
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (A1)
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+2019: LLC "1C"
+LLC "1C", 1C Professional. ZUP 8 for Belarus.
