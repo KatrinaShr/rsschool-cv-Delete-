@@ -128,7 +128,6 @@ button {
   border-radius: 0px;
   cursor: pointer;
   font-family: inherit;
-  
 }
 .btn1 {
   margin-top: 12px;
@@ -147,9 +146,9 @@ h2 {
 }
 .wrapper {
   width: 50%;
-    text-align: center;
-    margin: 0 auto;
-    overflow: hidden;
+  text-align: center;
+  margin: 0 auto;
+  overflow: hidden;
 }
 .wrapper h2 {
   display: inline-block;
@@ -187,32 +186,32 @@ h2 {
   margin: auto;
 }
 .skill-item p {
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 36px;
-/* or 200% */
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  /* or 200% */
 
-text-align: center;
+  text-align: center;
 
-color: #FFFFFF;
+  color: #ffffff;
   width: 280px;
 }
 .skill-item h3 {
   font-family: Inter;
-font-style: normal;
-font-weight: bold;
-font-size: 20px;
-line-height: 40px;
-text-align: center;
-color: #FFFFFF;
-padding-top: 26px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 26px;
 }
 .portfolio {
-height: 1500px;
-background-color: #000000;
-padding-top: 100px;
+  height: 1500px;
+  background-color: #000000;
+  padding-top: 100px;
 }
 .portfolio-btn {
   display: flex;
@@ -224,10 +223,10 @@ padding-top: 100px;
 
 .transparent {
   background-color: transparent;
-  border: 2px solid #BDAE82;
-  color: #BDAE82;
+  border: 2px solid #bdae82;
+  color: #bdae82;
   font-size: 20px;
-line-height: 40px;
+  line-height: 40px;
 }
 .portfolio-items {
   display: flex;
@@ -236,19 +235,16 @@ line-height: 40px;
   gap: 24px;
 }
 .video {
-  Height: 945px;
+  height: 945px;
   background-color: #000000;
   padding-top: 100px;
   text-align: center;
-  
 }
 .video img {
   margin-top: 60px;
 }
 
 .video-player {
- 
- 
   position: relative;
   display: flex;
   justify-content: center;
@@ -256,74 +252,77 @@ line-height: 40px;
 }
 .button-play {
   background: transparent;
-  background-image:url(./assets/png/Play_hover.png);
+  background-image: url(./assets/png/Play_hover.png);
   position: absolute;
   z-index: 100;
-  
+
   background-repeat: no-repeat;
   width: 130px;
   height: 68px;
   border: 0;
   cursor: pointer;
-  
 }
 .price {
   width: 1440px;
   height: 845px;
-background-color: #000000;
-padding-top: 100px;
+  background-color: #000000;
+  padding-top: 100px;
 }
 span {
   font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 36px;
-text-align: center;
-color: #FFFFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
 }
-.gold, .premium, .standart {
+.gold,
+.premium,
+.standart {
   font-family: Merriweather;
-font-style: normal;
-font-weight: bold;
-font-size: 28px;
-line-height: 56px;
-/* identical to box height, or 200% */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 56px;
+  /* identical to box height, or 200% */
 
-text-align: center;
-border: 3px solid #BDAE82;
-box-sizing: border-box;
-border-radius: 0px;
-color: #FFFFFF;
-width: 470px;
+  text-align: center;
+  border: 3px solid #bdae82;
+  box-sizing: border-box;
+  border-radius: 0px;
+  color: #ffffff;
+  width: 470px;
 }
-.gold p, .premium p, .standart p {
-font-family: Merriweather;
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 48px;
-/* identical to box height, or 200% */
+.gold p,
+.premium p,
+.standart p {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 48px;
+  /* identical to box height, or 200% */
 
-text-align: center;
+  text-align: center;
 
-color: #BDAE82;
-
+  color: #bdae82;
 }
 .price-items {
   display: flex;
   padding: 60px 20px;
 }
-.gold span, .premium span, .standart span {
+.gold span,
+.premium span,
+.standart span {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 36px;
   /* identical to box height, or 200% */
-  
+
   text-align: center;
-  
-  color: #FFFFFF;
-  
-  }
+
+  color: #ffffff;
+}
